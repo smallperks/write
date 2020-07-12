@@ -1,11 +1,14 @@
 ---
-author: Hugo Authors
-date: "2019-03-08"
-description: A brief guide to setup KaTeX
+author: Danielle
+date: "2019-12-04"
+description: Algos and Ethics Ed.1
 markup: mmark
+tags:
+- Algos & Ethics
 math: true
-title: Math Typesetting
+title: Credit Where Credit is due
 ---
+New post available here: https://algosandethics.substack.com/p/credit-where-credit-is-due
 
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
 <!--more-->

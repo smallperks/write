@@ -4,7 +4,7 @@
   padding: 2%; 
   max-width: $screen-max; 
   margin: 0 auto;
-  background: var(--color-bg);
+  background: var(--background-image);
   display: flex;
   flex-flow: column nowrap;
   @media (min-width: $screen-lg) {

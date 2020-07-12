@@ -2,11 +2,13 @@
 author: Hugo Authors
 date: "2019-03-05"
 description: Guide to emoji usage in Hugo
-imagelink: /static/bg1.png
 tags:
 - emoji
+- algos & ethics
 title: Emoji Support
 ---
+
+<iframe src="https://algosandethics.substack.com/embed" width="400" height="200" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 Emoji can be enabled in a Hugo project in a number of ways. 
 <!--more-->
@@ -17,6 +19,8 @@ To enable emoji globally, set `enableEmoji` to `true` in your site’s [configur
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
+
+:blush: :see_no_evil:
 
 The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
 

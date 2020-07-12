@@ -3,29 +3,31 @@ aliases:
 - about-us
 - about-hugo
 - contact
-author: Hugo Authors
+author: Danielle
 date: "2019-02-28"
 description: Hugo, the world’s fastest framework for building websites
 title: About
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hi! My name is Danielle. Nice to meet you. My weapons of choice are code and kindness. I tell stories with data @ Uncharted Software.
+I value model fairness and interpretability and the impact of algorithmic decision-making on our most vulnerable populations. Because I value interpretability, I invest time in tools that make Data Science, Machine Learning, and Artificial Intelligence explainable and accessible. 
 
-Hugo makes use of a variety of open source projects including:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Honestly, I do too much. But listen, I have a lot of ideas. Some good, most bad. Here are a few of these things I'm working on:
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+* #### :honeybee: **Beeknd** 
+I'm a huge fan of kindness. I even built an app and started a community to encourage more of it. Check it out here: [Beeknd](http://beeknd.com)
+* #### :incoming_envelope: **Algos & Ethics**
+I author a monthly newsletter committed to sharing the latest within the intersection of Algorithms and Ethics. Sign-up below if you are interested.
+<iframe src="https://algosandethics.substack.com/embed" width="500" height="200" style="" frameborder="0" scrolling="no"></iframe>
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+* #### :rice_ball: **MiR Community**
+I co-lead an R-focused user group called MiR Community. MiR Community is a slack-based group that supports members of marginalized and vulnerable commmunities that use R. We love R. :purple_heart: :bar_chart: 
+Learn more about MiR Community here: [MiR Community Medium Post](https://medium.com/@doritolay/introducing-mir-a-community-for-underrepresented-users-of-r-7560def7d861)
+Apply here to join as an member or ally here: [MiR Community Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScDFSyMLh_BbEq7zEBR18obMz8E2jQ6ZQYg4UPUxrfP93M46Q/viewform)
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+#### **In the news:**
+[Diversify Tech Feature](diversifytech.co/stories/danielle-smalls)
 
 
 

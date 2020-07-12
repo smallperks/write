@@ -1,5 +1,5 @@
 baseURL = ""
-title = "butnotsimplr"
+title = "danielle.pizza" 
 author = "Danielle Smalls-Perkins"
 copyright = "© 2020, Danielle Smalls-Perkins"
 paginate = 4
@@ -8,20 +8,21 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 theme = "origin-hugo-theme"
+enableEmoji = true 
 
 [params]
-  description = "simple hugo theme"
+  description = "rights and ramblings"
   featured = true
   cssonly = false
 
   [params.socials]
     facebook = ""
-    twitter = ""
+    twitter = "twitter.com/smallperks"
     instagram = ""
     youtube = ""
     github = ""
     gitlab = ""
-    linkedin = ""
+    linkedin = "https://www.linkedin.com/in/daniellesmalls/"
     slack = ""
     stackoverflow = ""
     medium= ""
@@ -33,6 +34,12 @@ theme = "origin-hugo-theme"
     name = "About"
     url = "/about/"
     weight = 10
+
+  [[menu.main]]
+    identifier = "work"
+    name = "Work"
+    url = "/work/"
+    weight = 20
 
 [taxonomies]
   category = "categories"
